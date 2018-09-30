@@ -1,0 +1,11 @@
+﻿  RPG_Framework.cpp
+c:\users\aroueterra\documents\visual studio 2017\projects\rpg_framework\rpg_framework\Monster.h(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+RPG_Framework.cpp(17): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+RPG_Framework.cpp(162): warning C4101: 'isValid': unreferenced local variable
+RPG_Framework.cpp(678): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  2 of 941 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RPG_Framework.vcxproj -> C:\Users\Aroueterra\documents\visual studio 2017\Projects\RPG_Framework\Release\RPG_Framework.exe

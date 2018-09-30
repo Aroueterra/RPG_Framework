@@ -1,0 +1,24 @@
+﻿  RPG_Framework.cpp
+c:\users\aroueterra\desktop\ \visual studio 2017\vc\tools\msvc\14.11.25503\include\xutility(3584): warning C4566: character represented by universal-character-name '\u00A0' cannot be represented in the current code page (932)
+c:\users\aroueterra\desktop\ \visual studio 2017\vc\tools\msvc\14.11.25503\include\xlocale(73): warning C4566: character represented by universal-character-name '\u00A0' cannot be represented in the current code page (932)
+c:\users\aroueterra\desktop\ \visual studio 2017\vc\tools\msvc\14.11.25503\include\xlocale(669): warning C4566: character represented by universal-character-name '\u00A0' cannot be represented in the current code page (932)
+c:\users\aroueterra\desktop\ \visual studio 2017\vc\tools\msvc\14.11.25503\include\xlocale(699): warning C4566: character represented by universal-character-name '\u00A0' cannot be represented in the current code page (932)
+c:\users\aroueterra\desktop\ \visual studio 2017\vc\tools\msvc\14.11.25503\include\xlocale(736): warning C4566: character represented by universal-character-name '\u00A0' cannot be represented in the current code page (932)
+c:\users\aroueterra\desktop\ \visual studio 2017\vc\tools\msvc\14.11.25503\include\xlocnum(101): warning C4566: character represented by universal-character-name '\u00A0' cannot be represented in the current code page (932)
+c:\users\aroueterra\documents\visual studio 2017\projects\rpg_framework\rpg_framework\monster.h(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\aroueterra\documents\visual studio 2017\projects\rpg_framework\rpg_framework\rpg_framework.cpp(17): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\aroueterra\documents\visual studio 2017\projects\rpg_framework\rpg_framework\rpg_framework.cpp(162): warning C4101: 'isValid': unreferenced local variable
+c:\users\aroueterra\documents\visual studio 2017\projects\rpg_framework\rpg_framework\rpg_framework.cpp(678): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Hero.cpp
+c:\users\aroueterra\desktop\ \visual studio 2017\vc\tools\msvc\14.11.25503\include\xutility(3584): warning C4566: character represented by universal-character-name '\u00A0' cannot be represented in the current code page (932)
+c:\users\aroueterra\desktop\ \visual studio 2017\vc\tools\msvc\14.11.25503\include\xlocale(73): warning C4566: character represented by universal-character-name '\u00A0' cannot be represented in the current code page (932)
+c:\users\aroueterra\desktop\ \visual studio 2017\vc\tools\msvc\14.11.25503\include\xlocale(669): warning C4566: character represented by universal-character-name '\u00A0' cannot be represented in the current code page (932)
+c:\users\aroueterra\desktop\ \visual studio 2017\vc\tools\msvc\14.11.25503\include\xlocale(699): warning C4566: character represented by universal-character-name '\u00A0' cannot be represented in the current code page (932)
+c:\users\aroueterra\desktop\ \visual studio 2017\vc\tools\msvc\14.11.25503\include\xlocale(736): warning C4566: character represented by universal-character-name '\u00A0' cannot be represented in the current code page (932)
+c:\users\aroueterra\desktop\ \visual studio 2017\vc\tools\msvc\14.11.25503\include\xlocnum(101): warning C4566: character represented by universal-character-name '\u00A0' cannot be represented in the current code page (932)
+c:\users\aroueterra\documents\visual studio 2017\projects\rpg_framework\rpg_framework\monster.h(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+c:\users\aroueterra\documents\visual studio 2017\projects\rpg_framework\rpg_framework\hero.cpp(42): warning C4715: 'Hero::set_Position': not all control paths return a value
+c:\users\aroueterra\documents\visual studio 2017\projects\rpg_framework\rpg_framework\rpg_framework.cpp(176): warning C4715: 'View_Job': not all control paths return a value
+c:\users\aroueterra\documents\visual studio 2017\projects\rpg_framework\rpg_framework\rpg_framework.cpp(232): warning C4715: 'Choose_Job': not all control paths return a value
+  RPG_Framework.vcxproj -> C:\Users\Aroueterra\documents\visual studio 2017\Projects\RPG_Framework\Debug\RPG_Framework.exe
