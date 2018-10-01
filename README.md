@@ -24,14 +24,16 @@ Windows:
 Download file from releases & extract
 Run RPG_Framework.exe
 ```
-
 ## Usage example
 
+<img align="left" width="100" height="100" src="https://github.com/Aroueterra/RPG_Framework/blob/master/graphics/if_Destructive_Magic_2913121.png">
 [![Help screen](https://github.com/Aroueterra/RPG_Framework/blob/master/graphics/help.PNG)]()
 
 The entire game revolves around interacting through inputted text. 
 The commands allowed to you are viewable by typing the 'help' command.
 At certain points you may be restricted to a select few commands, or a simple [yes/no].
+
+
 
 Commands are case-sensistive. All inputted text must be in lower-case, unless stated otherwise.
 
@@ -39,6 +41,7 @@ In combat with a creature after a 'kill [beast]' command is issued, the console 
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
+---
 ## Welcome to the world of Eberon
 
 [![World map screen](https://github.com/Aroueterra/RPG_Framework/blob/master/graphics/Main.PNG)]()
