@@ -1,11 +1,18 @@
-# RPG Framework
-> [C++/Console] C++ Project focused on building an RPG system within the constraints of the windows console.
-
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
+# RPG Framework
+
+
+<img align="right" width="100" height="100" src="https://github.com/Aroueterra/RPG_Framework/blob/master/graphics/if_Adventure_Map_2913095.png">
+
+> [C++/Console] C++ Project focused on building an RPG system within the constraints of the windows console.
+
 The focus of the RPG Framework project was to create and simulate the rudimentary systems present in modern role playing games within the restrictions of the windows console.
+
+---
+
 
 [![Character selection screen](https://github.com/Aroueterra/RPG_Framework/blob/master/graphics/select.PNG)]()
 
