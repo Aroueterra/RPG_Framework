@@ -32,7 +32,8 @@ Run RPG_Framework.exe
 <img align="left" width="100" height="100" src="https://github.com/Aroueterra/RPG_Framework/blob/master/graphics/if_Destructive_Magic_2913121.png">
 The entire game revolves around interacting through inputted text. 
 The commands allowed to you are viewable by typing the 'help' command.
-At certain points you may be restricted to a select few commands, or a simple [yes/no].
+
+The following table contains the available commands. Simply type the command+substitute the words in brackets:
 
 [![Help screen](https://github.com/Aroueterra/RPG_Framework/blob/master/graphics/help.PNG)]()
 
