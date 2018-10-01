@@ -24,22 +24,26 @@ Windows:
 Download file from releases & extract
 Run RPG_Framework.exe
 ```
+
+
+
 ## Usage example
 
 <img align="left" width="100" height="100" src="https://github.com/Aroueterra/RPG_Framework/blob/master/graphics/if_Destructive_Magic_2913121.png">
-[![Help screen](https://github.com/Aroueterra/RPG_Framework/blob/master/graphics/help.PNG)]()
-
 The entire game revolves around interacting through inputted text. 
 The commands allowed to you are viewable by typing the 'help' command.
 At certain points you may be restricted to a select few commands, or a simple [yes/no].
 
-
+[![Help screen](https://github.com/Aroueterra/RPG_Framework/blob/master/graphics/help.PNG)]()
 
 Commands are case-sensistive. All inputted text must be in lower-case, unless stated otherwise.
 
 In combat with a creature after a 'kill [beast]' command is issued, the console will only accepter integers.
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
+
+
+
 
 ---
 ## Welcome to the world of Eberon
@@ -48,13 +52,16 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 
 The world of Eberon is... a work in progress!
 In the world of Eberon, you play the role of a miscreant adventurer as he works his way up through skill and valor to become a mighty hero. Entering a lawless land outside the city walls, you must fight to survive.
- 
+
+<img align="right" width="100" height="100" src="https://github.com/Aroueterra/RPG_Framework/blob/master/graphics/if_Knight_2913116.png">
+
 ```sh
 You are negotiating passage to the northern mountains with the gatekeeper of New Estera when suddenly, the southern gates burst wide open.
  A calvacade of armed men, likely the king's own guard, marches through and into the heart of the city.
  Everyone stares in awe, but you decide to take this opportunity to slip past.
         Make your choice.
 ```
+---
 
 ## Release History
 
