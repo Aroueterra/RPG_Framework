@@ -72,7 +72,7 @@ You are negotiating passage to the northern mountains with the gatekeeper of New
 
 ## Meta
 
-August Bryan N. Florese – [@Aroueterra](https://www.facebook.com/Aroueterra) – aroueterra@gmail.com
+[@Aroueterra](https://www.facebook.com/Aroueterra) – aroueterra@gmail.com
 
 Distributed under the Mit license. See ``LICENSE`` for more information.
 
