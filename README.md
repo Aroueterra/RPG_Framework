@@ -39,7 +39,7 @@ The following table contains the available commands. Simply type the command+sub
 
 Commands are case-sensistive. All inputted text must be in lower-case, unless stated otherwise.
 
-In combat with a creature after a 'kill [beast]' command is issued, the console will only accepter integers.
+In combat with a creature after a 'kill [beast]' command is issued, the console will only accept integer values.
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
