@@ -64,6 +64,9 @@ You are negotiating passage to the northern mountains with the gatekeeper of New
 ```
 ---
 
+[![World map screen](https://github.com/Aroueterra/RPG_Framework/blob/master/graphics/combatsa.gif)]()
+[![World map screen](https://github.com/Aroueterra/RPG_Framework/blob/master/graphics/saysa.gif)]()
+
 ## Release History
 
 
